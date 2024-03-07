@@ -1,5 +1,5 @@
-#Noob Editors
-#Posy you mother Editor
+import colorama
+import random 
 from colorama import init, Fore
 init()
 from random import choice, randint
